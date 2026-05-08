@@ -1,4 +1,4 @@
-
+Enhance Gimp for macOS with top Plugin for Gimp for macOS - AI upscaling and layer styles, the #1 plugin. Includes AI upscaling and layer styles for a smoother and more creative
 
 
 
